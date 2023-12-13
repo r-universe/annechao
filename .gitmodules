@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "MF.beta4"]
+	path = MF.beta4
+	url = https://github.com/annechao/mf.beta4
