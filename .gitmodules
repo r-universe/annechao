@@ -5,3 +5,6 @@
 [submodule "MF.beta4"]
 	path = MF.beta4
 	url = https://github.com/annechao/mf.beta4
+[submodule "iNEXT.3D"]
+	path = iNEXT.3D
+	url = https://github.com/annechao/inext.3d
