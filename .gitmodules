@@ -8,3 +8,6 @@
 [submodule "iNEXT.3D"]
 	path = iNEXT.3D
 	url = https://github.com/annechao/inext.3d
+[submodule "iNEXT.beta3D"]
+	path = iNEXT.beta3D
+	url = https://github.com/annechao/inext.beta3d
